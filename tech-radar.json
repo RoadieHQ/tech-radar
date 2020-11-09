@@ -1,0 +1,188 @@
+{
+  "rings": [
+    {
+      "id": "use",
+      "name": "USE",
+      "color": "#93c47d"
+    },
+    {
+      "id": "trial",
+      "name": "TRIAL",
+      "color": "#93d2c2"
+    },
+    {
+      "id": "assess",
+      "name": "ASSESS",
+      "color": "#fbdb84"
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
+      "color": "#efafa9"
+    }
+  ],
+  "quadrants": [
+    {
+      "id": "infrastructure",
+      "name": "Infrastructure"
+    },
+    {
+      "id": "frameworks",
+      "name": "Frameworks"
+    },
+    {
+      "id": "languages",
+      "name": "Languages"
+    },
+    {
+      "id": "process",
+      "name": "Process"
+    }
+  ],
+  "entries": [
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "javascript",
+      "id": "javascript",
+      "title": "JavaScript",
+      "quadrant": {
+        "id": "languages",
+        "name": "Languages"
+      }
+    },
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "typescript",
+      "id": "typescript",
+      "title": "TypeScript",
+      "quadrant": {
+        "id": "languages",
+        "name": "Languages"
+      }
+    },
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "webpack",
+      "id": "webpack",
+      "title": "Webpack",
+      "quadrant": {
+        "id": "frameworks",
+        "name": "Frameworks"
+      }
+    },
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "react",
+      "id": "react",
+      "title": "React",
+      "quadrant": {
+        "id": "frameworks",
+        "name": "Frameworks"
+      }
+    },
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "code-reviews",
+      "id": "code-reviews",
+      "title": "Code Reviews",
+      "quadrant": {
+        "id": "process",
+        "name": "Process"
+      }
+    },
+    {
+      "moved": 0,
+      "url": "#",
+      "key": "mob-programming",
+      "id": "mob-programming",
+      "title": "Mob Programming",
+      "quadrant": {
+        "id": "process",
+        "name": "Process"
+      },
+      "ring": {
+        "id": "assess",
+        "name": "ASSESS",
+        "color": "#fbdb84"
+      }
+    },
+    {
+      "moved": 0,
+      "url": "#",
+      "key": "docs-like-code",
+      "id": "docs-like-code",
+      "title": "Docs-like-code",
+      "quadrant": {
+        "id": "process",
+        "name": "Process"
+      },
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      }
+    },
+    {
+      "moved": 0,
+      "url": "#",
+      "key": "force-push",
+      "id": "force-push",
+      "title": "Force push to master",
+      "quadrant": {
+        "id": "process",
+        "name": "Process"
+      },
+      "ring": {
+        "id": "hold",
+        "name": "HOLD",
+        "color": "#93c47d"
+      }
+    },
+    {
+      "moved": 0,
+      "ring": {
+        "id": "use",
+        "name": "USE",
+        "color": "#93c47d"
+      },
+      "url": "#",
+      "key": "github-actions",
+      "id": "github-actions",
+      "title": "GitHub Actions",
+      "quadrant": {
+        "id": "infrastructure",
+        "name": "Infrastructure"
+      }
+    }
+  ]
+}
