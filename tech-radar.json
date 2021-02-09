@@ -151,6 +151,20 @@
       "id": "github-actions",
       "title": "GitHub Actions",
       "quadrant": "infrastructure"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "use",
+          "date": "2021-02-09T00:00:00.000Z"
+        }
+      ],
+      "url": "#",
+      "key": "backstage",
+      "id": "backstage",
+      "title": "Backstage",
+      "quadrant": "process"
     }
   ]
 }
