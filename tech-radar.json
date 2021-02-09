@@ -116,20 +116,6 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "assess",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "mob-programming",
-      "id": "mob-programming",
-      "title": "Mob Programming",
-      "quadrant": "process"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
           "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
