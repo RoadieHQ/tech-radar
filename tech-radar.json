@@ -164,7 +164,7 @@
       "key": "backstage",
       "id": "backstage",
       "title": "Backstage",
-      "quadrant": "process"
+      "quadrant": "infrastructure"
     }
   ]
 }
