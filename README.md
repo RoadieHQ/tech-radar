@@ -1,2 +1,2 @@
 # tech-radar
-A place to put our tech radar data - currently only for testing.
+Example Tech Radar data taken from the tech radar plugin sample data.
