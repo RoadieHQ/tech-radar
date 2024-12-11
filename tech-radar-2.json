@@ -60,35 +60,6 @@
         {
           "moved": 0,
           "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z",
-          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
-        }
-      ],
-      "url": "#",
-      "key": "typescript",
-      "id": "typescript",
-      "title": "TypeScript",
-      "quadrant": "languages"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "use",
-          "date": "2020-08-06T00:00:00.000Z"
-        }
-      ],
-      "url": "#",
-      "key": "webpack",
-      "id": "webpack",
-      "title": "Webpack",
-      "quadrant": "frameworks"
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
